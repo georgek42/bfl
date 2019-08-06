@@ -1,0 +1,5 @@
+(executable
+  (name bf)
+  (public_name bf)
+  (preprocess (pps ppx_jane))
+  (libraries core bfl))

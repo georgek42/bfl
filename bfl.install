@@ -1,0 +1,11 @@
+lib: [
+  "_build/install/default/lib/bfl/META" {"META"}
+  "_build/install/default/lib/bfl/dune-package" {"dune-package"}
+  "_build/install/default/lib/bfl/opam" {"opam"}
+]
+bin: [
+  "_build/install/default/bin/bf" {"bf"}
+]
+doc: [
+  "_build/install/default/doc/bfl/README.md"
+]
